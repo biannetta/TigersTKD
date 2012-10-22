@@ -1,0 +1,17 @@
+.containerContent {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 375px;
+    z-index: 1;
+    position: relative;
+    padding-top: 60px;
+}  
+
+.col1{width: 742px; position: relative; float: left;} 
+.col2{width: 220px; position: relative; float: left;} 
+.col3{width: 160px; position: relative; float: left;} 
+
+.col4{width: 380px; position: relative; float: left;padding-right: 80px;} 
+.col5{width: 270px; position: relative; float: left;} 
+.col6{width: 165px; position: relative; float: left;} 
