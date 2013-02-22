@@ -59,6 +59,7 @@ header{position: relative;display: block;float: left;padding: 18px 95px 18px 0;}
 .color1{color:#545454;}
 .color2{color:#fff;}
 .color3{color:#120f0f;}
+.color4{color:#3b5998;font-weight: bold;}
 .title{z-index: 1; position: relative; width: 100%;height: 65px;}
 .planeHolder{position: absolute; top: 0; right: 0;width: 2000px;}
 #more1 {
@@ -118,9 +119,9 @@ header{position: relative;display: block;float: left;padding: 18px 95px 18px 0;}
 .splashPlane{position: relative; width: 2000px; height:97px; float: left;}
 .planeSplash{background: url(../images/splashPart.png); width: 1430px; height: 97px; position: relative; float: left;}
 .extra3{background: url(../images/splashExtra.png) 0 0 no-repeat; width: 52px; height: 97px; position: relative; float: left;}
-.splashText{position: absolute; z-index: 2;padding: 16px 0 16px 60px;width: 500px;}
+.splashText{position: absolute; z-index: 2;padding: 16px 0 16px 60px;width: 800px;}
 .splashText > a{position: relative; display: inline-block;padding-right: 30px; float: left;}
-.spText1{font-size: 35px; color: #000;  font-family: 'Open Sans', sans-serif; font-weight: 400; position: relative; float: left;line-height: 1.2em;text-transform: uppercase;}
+.spText1{font-size: 30px; color: #000;  font-family: 'Open Sans', sans-serif; font-weight: 400; position: relative; float: left;line-height: 1.4em;text-transform: uppercase;}
 .fontW{font-weight: 700;}
 .spText2{font-size: 15px; color: #000;  font-family: 'Open Sans', sans-serif; font-weight: 400; position: relative; float: left;line-height: 1.2em;text-transform: uppercase;}
 /* =================================================== */
